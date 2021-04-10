@@ -2,7 +2,26 @@
   <component name="DimensionService">
     <location key="WELCOME_SCREEN.0.0.1280.1024" x="640" y="300" />
   </component>
+  <component name="WindowManager">
+    <frame x="-1" y="-1" width="1282" height="1000" extendedState="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+    </layout>
+  </component>
   <component name="WindowStateApplicationService">
+    <state x="423" y="257" width="426" height="479" key="FileChooserDialogImpl" timestamp="1618031906021">
+      <screen x="0" y="0" width="1280" height="994" />
+    </state>
+    <state x="423" y="257" width="426" height="479" key="FileChooserDialogImpl/0.0.1280.994" timestamp="1618031906021" />
+    <state x="860" y="788" width="300" height="179" key="ProcessPopupWindow" timestamp="1618032035944">
+      <screen x="0" y="0" width="1280" height="994" />
+    </state>
+    <state x="860" y="788" width="300" height="179" key="ProcessPopupWindow/0.0.1280.994" timestamp="1618032035944" />
     <state x="641" y="443" key="WELCOME_SCREEN" timestamp="1618029472209">
       <screen x="0" y="0" width="1280" height="994" />
     </state>

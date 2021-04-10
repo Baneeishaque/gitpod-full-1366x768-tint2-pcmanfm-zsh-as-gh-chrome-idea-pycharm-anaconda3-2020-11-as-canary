@@ -1,5 +1,5 @@
 -Xms256m
--Xmx1280m
+-Xmx2048m
 -XX:ReservedCodeCacheSize=512m
 -XX:MaxJavaStackTraceDepth=10000
 -XX:+HeapDumpOnOutOfMemoryError

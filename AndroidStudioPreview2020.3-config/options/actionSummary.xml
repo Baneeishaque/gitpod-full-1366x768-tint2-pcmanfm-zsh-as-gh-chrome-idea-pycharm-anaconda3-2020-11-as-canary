@@ -1,0 +1,52 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="3" l="1618033931153" />
+    </e>
+    <e n="ChangesView.AddUnversioned">
+      <i c="1" l="1618032228053" />
+    </e>
+    <e n="CheckinFiles">
+      <i c="1" l="1618032242843" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="1" l="1618032298276" />
+    </e>
+    <e n="EditorCopy">
+      <i c="2" l="1618032493097" />
+    </e>
+    <e n="EditorLeft">
+      <i c="17" l="1618032269903" />
+    </e>
+    <e n="EditorPaste">
+      <i c="1" l="1618032400133" />
+    </e>
+    <e n="Git.Commit.And.Push.Executor">
+      <i c="1" l="1618032303800" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="1" l="1618032275007" />
+    </e>
+    <e n="ShowPopupMenu">
+      <i c="1" l="1618032271033" />
+    </e>
+    <e n="Tree-selectChild">
+      <i c="3" l="1618032194121" />
+    </e>
+    <e n="Tree-selectNext">
+      <i c="17" l="1618032200021" />
+    </e>
+    <e n="Vcs.Push">
+      <i c="1" l="1618032367065" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1618031895077" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1618032142671" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+      <i c="4" l="1618035042191" />
+    </e>
+  </component>
+</application>
