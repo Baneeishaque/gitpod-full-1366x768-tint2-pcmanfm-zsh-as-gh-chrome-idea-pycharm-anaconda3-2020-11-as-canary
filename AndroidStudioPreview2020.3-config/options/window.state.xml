@@ -1,0 +1,11 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1280.1024" x="640" y="300" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="641" y="443" key="WELCOME_SCREEN" timestamp="1618029472209">
+      <screen x="0" y="0" width="1280" height="994" />
+    </state>
+    <state x="641" y="443" key="WELCOME_SCREEN/0.0.1280.994" timestamp="1618029472209" />
+  </component>
+</application>
