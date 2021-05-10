@@ -142,5 +142,46 @@
       </roots>
       <additional jdk="JDK" sdk="android-29" />
     </jdk>
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_242&quot;" />
+      <homePath value="$USER_HOME$/.sdkman/candidates/java/8.0.242-open" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.242-open/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.242-open/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.242-open/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.242-open/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.242-open/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.242-open/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.242-open/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.242-open/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.242-open/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.242-open/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.242-open/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.242-open/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.242-open/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.242-open/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.242-open/jre/lib/rt.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="https://docs.oracle.com/javase/8/docs/api/" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
   </component>
 </application>

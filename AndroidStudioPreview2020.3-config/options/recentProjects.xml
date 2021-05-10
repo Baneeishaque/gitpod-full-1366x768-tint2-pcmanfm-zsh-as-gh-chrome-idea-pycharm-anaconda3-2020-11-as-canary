@@ -2,16 +2,42 @@
   <component name="RecentProjectsManager">
     <option name="additionalInfo">
       <map>
-        <entry key="/workspace/Core-Wind-Android-Client">
+        <entry key="/workspace/Core-WindB_Android-Client">
           <value>
-            <RecentProjectMetaInfo frameTitle="Core-Wind-Android-Client – ListAgentsActivity.java [Core-Wind-Android-Client.admin_common]" opened="true" projectWorkspaceId="1qxk9SHXFAkQnp1iqN54KikzA7i">
+            <RecentProjectMetaInfo frameTitle="Core-WindB_Android-Client" projectWorkspaceId="1sMFRLqxG9aSgddq4P7mXO7MrC9">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="AI-203.7717.56.2031.7260174" />
-              <option name="buildTimestamp" value="1617670085310" />
+              <option name="buildTimestamp" value="1617670132607" />
               <option name="eap" value="true" />
-              <frame x="-1" y="-1" width="1282" height="1000" extendedState="6" />
+              <frame x="0" y="0" width="1366" height="595" extendedState="6" />
               <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1618031908317" />
+              <option name="projectOpenTimestamp" value="1620676630993" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/workspace/Core-WindB2_Android-Client">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Core-WindB2_Android-Client" projectWorkspaceId="1sMGAkjCGjJmtpHddErPtXwzTq2">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-203.7717.56.2031.7260174" />
+              <option name="buildTimestamp" value="1617670132607" />
+              <option name="eap" value="true" />
+              <frame x="0" y="0" width="1366" height="595" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1620677553439" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/workspace/Core-Wind-Android-Client">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Core-Wind-Android-Client" opened="true" projectWorkspaceId="1sMFDy3wY6PhdgYyRlGpZJgVPgb">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-203.7717.56.2031.7260174" />
+              <option name="buildTimestamp" value="1617670132607" />
+              <option name="eap" value="true" />
+              <frame x="0" y="0" width="1366" height="595" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1620677828751" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

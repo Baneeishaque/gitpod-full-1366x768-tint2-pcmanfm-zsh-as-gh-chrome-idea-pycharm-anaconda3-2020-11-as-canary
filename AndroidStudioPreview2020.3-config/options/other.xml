@@ -7,6 +7,21 @@
             <ProjectPluginTrackerState />
           </value>
         </entry>
+        <entry key="1sMFDy3wY6PhdgYyRlGpZJgVPgb">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1sMFRLqxG9aSgddq4P7mXO7MrC9">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1sMGAkjCGjJmtpHddErPtXwzTq2">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
@@ -18,18 +33,19 @@
     <property name="Darcula.SavedEditorTheme" value="_@user_Darcula" />
     <property name="NonModalCommitPromotionState" value="SHOWN" />
     <property name="UITheme.relaunch" value="true" />
-    <property name="appcds.runOnSecondStart" value="AI-203.7717.56.2031.7260174-58dce1f4427a92d22fe0e8290f0b2c685870d70376981716443d843ba0559f9f" />
+    <property name="appcds.runOnSecondStart" value="AI-203.7717.56.2031.7260174-18f9f97b273defd47a8bc563567f1e87c7cf3d7d7f72e984c57592409085bc0e" />
     <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
-    <property name="file.chooser.recent.files" value="/workspace/Core-Wind-Android-Client" />
-    <property name="file.gist.reindex.count" value="182" />
+    <property name="build.toolwindow.run.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="file.chooser.recent.files" value="/workspace/Core-WindB2_Android-Client&#10;/workspace/Core-WindB_Android-Client&#10;/workspace/Core-Wind-Android-Client" />
+    <property name="file.gist.reindex.count" value="592" />
     <property name="fileTypeChangedCounter" value="1" />
     <property name="ide.updates.previous.build.number" value="AI-203.7717.56.2031.7260174" />
     <property name="installed.kotlin.plugin.version" value="203-1.4.32-release-AS7148.5" />
     <property name="kotlin-gradle-user-dirs" value="/workspace/.gradle" />
-    <property name="lastSeenTip" value="Kotlin.html" />
-    <property name="lastTimeTipsWereShown" value="1618032161154" />
+    <property name="lastSeenTip" value="Kotlin_mix.html" />
+    <property name="lastTimeTipsWereShown" value="1620676506684" />
     <property name="last_opened_file_path" value="/workspace/Core-Wind-Android-Client" />
-    <property name="seenTips" value="Kotlin.html" />
+    <property name="seenTips" value="Kotlin.html,Kotlin_mix.html" />
     <property name="studio.activity.count" value="0" />
     <property name="tasks.pass.word.conversion.enforced" value="true" />
   </component>

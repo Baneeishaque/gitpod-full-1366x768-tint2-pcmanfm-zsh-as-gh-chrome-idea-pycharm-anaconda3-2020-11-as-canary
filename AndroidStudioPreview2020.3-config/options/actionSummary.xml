@@ -3,11 +3,17 @@
     <e n="$Copy">
       <i c="3" l="1618033931153" />
     </e>
+    <e n="Android.SyncProject">
+      <i c="2" l="1620678017360" />
+    </e>
     <e n="ChangesView.AddUnversioned">
       <i c="1" l="1618032228053" />
     </e>
     <e n="CheckinFiles">
       <i c="1" l="1618032242843" />
+    </e>
+    <e n="CloseProject">
+      <i c="1" l="1620677824654" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1" l="1618032298276" />
@@ -23,6 +29,12 @@
     </e>
     <e n="Git.Commit.And.Push.Executor">
       <i c="1" l="1618032303800" />
+    </e>
+    <e n="OpenFile">
+      <i c="2" l="1620676625147" />
+    </e>
+    <e n="Run">
+      <i c="2" l="1620677563422" />
     </e>
     <e n="ShowIntentionActions">
       <i c="1" l="1618032275007" />
@@ -41,6 +53,12 @@
     </e>
     <e n="WelcomeScreen.OpenProject">
       <i c="1" l="1618031895077" />
+    </e>
+    <e n="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SelectConfigAction">
+      <i c="1" l="1620676525539" />
+    </e>
+    <e n="com.intellij.ide.ReopenProjectAction">
+      <i c="1" l="1620677828442" />
     </e>
     <e n="com.intellij.notification.NotificationAction$Simple">
       <i c="1" l="1618032142671" />
