@@ -10,12 +10,12 @@ ARG androidStudioCanaryInstallationFile="android-studio-2020.3.1.15-linux.tar.gz
  # && sudo rm -rf /var/lib/apt/lists/*
 
 RUN cd $HOME \
- && wget $androidStudioCanaryDownloadUrl | tee -a /tmp/wget-androidStudioCanary.log \
- && sudo tar -xvf $androidStudioCanaryInstallationFile | tee -a /tmp/tar-androidStudioCanary.log \
+ && wget $androidStudioCanaryDownloadUrl \
+ && sudo tar -xvf $androidStudioCanaryInstallationFile \
  && mv android-studio android-studio-canary \
  && sudo mv android-studio-canary /usr/local/ \
  && rm $androidStudioCanaryInstallationFile
 
 RUN mkdir -p ~/.config/Google/AndroidStudioPreview2020.3/ \
  && cp /usr/local/android-studio-canary/bin/studio64.vmoptions ~/.config/Google/AndroidStudioPreview2020.3/ \
- && echo "-Dsun.java2d.xrender=false" >> ~/.config/Google/AndroidStudioPreview2020.3/studio64.vmoptions 
+ && echo "-Dsun.java2d.xrender=false" >> ~/.config/Google/AndroidStudioPreview2020.3/studio64.vmoptions

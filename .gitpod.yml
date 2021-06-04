@@ -11,7 +11,6 @@ image:
   # - init: gh auth login
   # - command: google-chrome --disable-dev-shm-usage
 
-# Ports to expose on workspace startup
 ports:
   - port: 5900
     onOpen: ignore
