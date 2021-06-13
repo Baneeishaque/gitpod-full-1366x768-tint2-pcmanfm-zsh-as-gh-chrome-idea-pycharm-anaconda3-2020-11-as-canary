@@ -1,4 +1,4 @@
-FROM baneeishaque/gitpod-full-1366x768-tint2-pcmanfm-zsh-android-studio-gh-chrome-idea-pycharm-anaconda3-2020-11
+FROM baneeishaque/gitpod-full-1366x768-tint2-pcmanfm-zsh-android-studio-gh-chrome-idea-pycharm-anaconda3
 
 ARG androidStudioCanaryDownloadUrl="https://redirector.gvt1.com/edgedl/android/studio/ide-zips/2020.3.1.15/android-studio-2020.3.1.15-linux.tar.gz"
 # TODO : Derive androidStudioCanaryInstallationFile from androidStudioCanaryDownloadUrl
