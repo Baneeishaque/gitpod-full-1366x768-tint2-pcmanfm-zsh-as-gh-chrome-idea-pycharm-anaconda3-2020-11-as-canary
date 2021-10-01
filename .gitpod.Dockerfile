@@ -1,8 +1,8 @@
 FROM baneeishaque/gitpod-full-1366x768-tint2-pcmanfm-zsh-android-studio-gh-chrome-idea-pycharm-anaconda3
 
-ARG androidStudioCanaryDownloadUrl="https://redirector.gvt1.com/edgedl/android/studio/ide-zips/2020.3.1.15/android-studio-2020.3.1.15-linux.tar.gz"
+ARG androidStudioCanaryDownloadUrl="https://redirector.gvt1.com/edgedl/android/studio/ide-zips/2021.1.1.13/android-studio-2021.1.1.13-linux.tar.gz"
 # TODO : Derive androidStudioCanaryInstallationFile from androidStudioCanaryDownloadUrl
-ARG androidStudioCanaryInstallationFile="android-studio-2020.3.1.15-linux.tar.gz"
+ARG androidStudioCanaryInstallationFile="android-studio-2021.1.1.13-linux.tar.gz"
 
 # RUN sudo apt update \
  # && sudo apt install -y \
@@ -16,6 +16,7 @@ RUN cd $HOME \
  && sudo mv android-studio-canary /usr/local/ \
  && rm $androidStudioCanaryInstallationFile
 
-RUN mkdir -p ~/.config/Google/AndroidStudioPreview2020.3/ \
- && cp /usr/local/android-studio-canary/bin/studio64.vmoptions ~/.config/Google/AndroidStudioPreview2020.3/ \
- && echo "-Dsun.java2d.xrender=false" >> ~/.config/Google/AndroidStudioPreview2020.3/studio64.vmoptions
+# TODO : Change this
+# RUN mkdir -p ~/.config/Google/AndroidStudioPreview2020.3/ \
+#  && cp /usr/local/android-studio-canary/bin/studio64.vmoptions ~/.config/Google/AndroidStudioPreview2020.3/ \
+#  && echo "-Dsun.java2d.xrender=false" >> ~/.config/Google/AndroidStudioPreview2020.3/studio64.vmoptions
