@@ -12,9 +12,9 @@ ARG androidStudioCanaryInstallationFile="android-studio-2021.1.1.13-linux.tar.gz
 RUN cd $HOME \
  && wget $androidStudioCanaryDownloadUrl \
  && sudo tar -xvf $androidStudioCanaryInstallationFile \
- && mv android-studio android-studio-canary \
+ && sudo mv android-studio android-studio-canary \
  && sudo mv android-studio-canary /usr/local/ \
- && rm $androidStudioCanaryInstallationFile
+ && sudo rm $androidStudioCanaryInstallationFile
 
 # TODO : Change this
 # RUN mkdir -p ~/.config/Google/AndroidStudioPreview2020.3/ \
